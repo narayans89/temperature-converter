@@ -4,7 +4,7 @@ This repository contains a simple script that converts Celsius to Fahrenheit and
 
 ## Code in This Repo  
 ```python
-temp = float(input("Enter the temperature: "))  
+temp = float(input("Enter temperature: "))  
 unit = input("Is this in (C)elsius or (F)ahrenheit? ").strip().lower()  
 
 if unit == "c":  
