@@ -1,6 +1,6 @@
 # Temperature Converter 🌡️  
 
-This repository has a simple script that converts Celsius to Fahrenheit and vice versa.  
+This repository contains a simple script that converts Celsius to Fahrenheit and vice versa.  
 
 ## Code in This Repo  
 ```python
